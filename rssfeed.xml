@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Room for Desssert</title>
+  <description>A blog about food from someone who likes food.</description>
+  <link>https://roomfordessert.neocities.org/</link>
+  <lastBuildDate>
+    Sat, 05 Oct 2024 13:30:00 CDT
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+  <item>
+  <title>Tofu Bao at Apple Fest</title>
+  <description>
+    I ate some Tofu Baos from Yum Dum food truck at Lincoln Square during Apple Fest.
+  </description>
+  <link>https://roomfordessert.neocities.org#tofu-bao</link>
+  <pubDate>
+    Sat, 05 Oct 2024 13:30:00 CDT
+  </pubDate>
+</item>
+</channel>
+</rss>
